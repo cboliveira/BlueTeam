@@ -56,8 +56,7 @@ Here you will find analysis and writeups from:
 ```
 📂 writeups/
 ├── 📂 letsdefend/
-│   ├── 📂 alerts/
-│   └── 📂 incidents/
+│   ├── 📂 Reports/
 ├── 📂 tryhackme/
 ├── 📂 hackthebox/
 ├── 📂 picoctf/
