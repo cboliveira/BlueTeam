@@ -8,9 +8,10 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-cboliveira-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-Writeups-blue?style=for-the-badge&logo=shield&logoColor=white)](https://letsdefend.io)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Retired_Machines-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo_de_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-de-oliveira-47573418b/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-cboliveira-9fef00?style=for-the-badge&logo=hackthebox&logoColor=green)](https://profile.hackthebox.com/profile/019de971-b4d2-73e2-99d0-dae6b607023b)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-heyyoberna-8a8a8a?style=for-the-badge&logo=tryhackme&logoColor=green)](https://tryhackme.com/p/heyyoberna)
+![Blue Team](https://img.shields.io/badge/Blue_Team-00cfff?style=for-the-badge&logo=shield&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00ff41?style=for-the-badge)
 
 </div>
@@ -25,7 +26,7 @@
 
 ## 📡 About This Repository
 
-> **Take note:** This archive is not copied from the internet — everything you see here was produced by me while studying and collecting information from vulnerable machines and simulated environments.
+> **Take note:** This archive is not copied from the internet — everything you see here was produced by me while studying and collecting information from vulnerable machines and simulated environments and also it may take a while to updates due to my study and IT work.
 
 Here you will find analysis and writeups from:
 
