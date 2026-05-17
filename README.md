@@ -54,7 +54,6 @@ Here you will find analysis and writeups from:
 ## 📁 Repository Structure
 
 ```
-📂 writeups/
 ├── 📂 letsdefend/
 │   ├── 📂 Reports/
 ├── 📂 tryhackme/
