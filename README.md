@@ -54,13 +54,13 @@ Here you will find analysis and writeups from:
 ## 📁 Repository Structure
 
 ```
-├── 📂 letsdefend/
-│   ├── 📂 Reports/
-├── 📂 tryhackme/
-├── 📂 hackthebox/
-├── 📂 picoctf/
-├── 📂 vulnhub/
-└── 📂 self-labs/
+├── 📂 Auditors/
+├── 📂 Certs and Studies/
+├── 📂 OSINT/
+├── 📂 Reports/
+├── 📂 CTFs/
+|   ├── 📂 Writeups/
+   
 ```
 
 ---
